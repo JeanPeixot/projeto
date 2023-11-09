@@ -2,6 +2,9 @@
 
 ### 🇺🇸 Project Developed for study at RocketSeat
 
+#### To access the page, click on the link!
+
+https://jeanpeixot.github.io/projeto/
 
 ##### Technologies used:
 
@@ -9,10 +12,11 @@
 - CSS
 - Javascript
 
-
 ### 🇧🇷 Projeto Desenvolvido para estudo na RocketSeat
 
+#### Para acessar a página, click no link!
 
+https://jeanpeixot.github.io/projeto/
 
 ##### Tecnologias utilizadas: 
 
